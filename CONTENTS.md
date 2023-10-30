@@ -1,29 +1,29 @@
 ### Section 2.1 Types of AI based on system's capability
 
-##### Fig. 1: The division of AI into subcategories.
+##### Fig. 1: The division of AI into subcategories. \([back to ToC](./README.md/#table-of-contents)\)
 ![The division of AI into subcategories](Images/AI_figure01.drawio.svg)
 
 ### Section 3.1 Balancing the classes in the training dataset
 
 ##### Fig. 2: Balancing the data representing specific categories in subsequent experiments examining the effect of class proportion on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
-###### Fig. 2a): Phase 1, test 1.
+###### Fig. 2a): Phase 1, test 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 1.](Images/balance_phase1_test1.png)
-###### Fig. 2b): Phase 1, test 2.
+###### Fig. 2b): Phase 1, test 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 2.](Images/balance_phase1_test2.png)
-###### Fig. 2c): Phase 1, test 3.
+###### Fig. 2c): Phase 1, test 3. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 3.](Images/balance_phase1_test3.png)
-###### Fig. 2d): Phase 1, test 4.
+###### Fig. 2d): Phase 1, test 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 4.](Images/balance_phase1_test4.png)
-###### Fig. 2e): Phase 2, test 1.
+###### Fig. 2e): Phase 2, test 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 1.](Images/balance_phase2_test1.png)
-###### Fig. 2f): Phase 2, test 2.
+###### Fig. 2f): Phase 2, test 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 2.](Images/balance_phase2_test2.png)
-###### Fig. 2g): Phase 2, test 3.
+###### Fig. 2g): Phase 2, test 3. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 3.](Images/balance_phase2_test3.png)
-###### Fig. 2h): Phase 2, test 4.
+###### Fig. 2h): Phase 2, test 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 4.](Images/balance_phase2_test4.png)
 
-##### Appendix - Table 1: Balancing the data representing specific categories in subsequent experiments. Phase 1. Tests 1-4.
+##### Appendix - Table 1: Balancing the data representing specific categories in subsequent experiments. Phase 1. Tests 1-4. \([back to ToC](./README.md/#table-of-contents)\)
 |                                | **Gaussian Naive Bayes** | **Decision Tree** | **Random Forest** | **Support Vector Machine** | **Logistic Regression** | **Gradient Boosting Classifier** | **Artifical Neural Network** |
 |:------------------------------:|:------------------------:|:-----------------:|:-----------------:|:--------------------------:|:-----------------------:|:--------------------------------:|:----------------------------:|
 | **accuracy - Test 1**          | 0.788090617              | 0.983396009       | 0.999347971       | 0.995375144                | 0.992873173             | 0.997892279                      | 0.997179596                  |
@@ -53,7 +53,7 @@
 
 
 
-##### Appendix - Table 2: Balancing the data representing specific categories in subsequent experiments. Phase 2. Tests 1-4.
+##### Appendix - Table 2: Balancing the data representing specific categories in subsequent experiments. Phase 2. Tests 1-4. \([back to ToC](./README.md/#table-of-contents)\)
 |                                | **Gaussian Naive Bayes** | **Decision Tree** | **Random Forest** | **Support Vector Machine** | **Logistic Regression** | **Gradient Boosting Classifier** | **Artifical Neural Network** |
 |:------------------------------:|:------------------------:|:-----------------:|:-----------------:|:--------------------------:|:-----------------------:|:--------------------------------:|:----------------------------:|
 | **accuracy - Test 1**          | 0.823248408              | 0.961170995       | 0.99755022        | 0.987628613                | 0.974644782             | 0.994610485                      | 0.941205292                  |
@@ -82,157 +82,157 @@
 | **testing time [s] - Test 4**  | 0.016203403              | 0.004794121       | 0.04400825        | 50.713534117               | 0.003633022             | 0.055040359                      | 0.456575871                  |
 
 
-##### Fig. 3: GNB – confusion matrices for experiments examining the effect of class balance on classification efficiency.
-###### Fig. 3a): Phase 1, test 1.
+##### Fig. 3: GNB – confusion matrices for experiments examining the effect of class balance on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 3a): Phase 1, test 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 1.](Images/GNB_phase1_test1.svg)
-###### Fig. 3b): Phase 1, test 2.
+###### Fig. 3b): Phase 1, test 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 2.](Images/GNB_phase1_test2.svg)
-###### Fig. 3c): Phase 1, test 3.
+###### Fig. 3c): Phase 1, test 3. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 3.](Images/GNB_phase1_test3.svg)
-###### Fig. 3d): Phase 1, test 4.
+###### Fig. 3d): Phase 1, test 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 4.](Images/GNB_phase1_test4.svg)
-###### Fig. 3e): Phase 2, test 1.
+###### Fig. 3e): Phase 2, test 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 1.](Images/GNB_phase2_test1.svg)
-###### Fig. 3f): Phase 2, test 2.
+###### Fig. 3f): Phase 2, test 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 2.](Images/GNB_phase2_test2.svg)
-###### Fig. 3g): Phase 2, test 3.
+###### Fig. 3g): Phase 2, test 3. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 3.](Images/GNB_phase2_test3.svg)
-###### Fig. 3h): Phase 2, test 4.
+###### Fig. 3h): Phase 2, test 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 4.](Images/GNB_phase2_test4.svg)
 
-##### Fig. 4: DT – confusion matrices for experiments examining the effect of class balance on classification efficiency.
-###### Fig. 4a): Phase 1, test 1.
+##### Fig. 4: DT – confusion matrices for experiments examining the effect of class balance on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 4a): Phase 1, test 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 1.](Images/DT_phase1_test1.svg)
-###### Fig. 4b): Phase 1, test 2.
+###### Fig. 4b): Phase 1, test 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 2.](Images/DT_phase1_test2.svg)
-###### Fig. 4c): Phase 1, test 3.
+###### Fig. 4c): Phase 1, test 3. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 3.](Images/DT_phase1_test3.svg)
-###### Fig. 4d): Phase 1, test 4.
+###### Fig. 4d): Phase 1, test 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 4.](Images/DT_phase1_test4.svg)
-###### Fig. 4e): Phase 2, test 1.
+###### Fig. 4e): Phase 2, test 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 1.](Images/DT_phase2_test1.svg)
-###### Fig. 4f): Phase 2, test 2.
+###### Fig. 4f): Phase 2, test 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 2.](Images/DT_phase2_test2.svg)
-###### Fig. 4g): Phase 2, test 3.
+###### Fig. 4g): Phase 2, test 3. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 3.](Images/DT_phase2_test3.svg)
-###### Fig. 4h): Phase 2, test 4.
+###### Fig. 4h): Phase 2, test 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 4.](Images/DT_phase2_test4.svg)
 
-##### Fig. 5: RF – confusion matrices for experiments examining the effect of class balance on classification efficiency.
-###### Fig. 5a): Phase 1, test 1.
+##### Fig. 5: RF – confusion matrices for experiments examining the effect of class balance on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 5a): Phase 1, test 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 1.](Images/RF_phase1_test1.svg)
-###### Fig. 5b): Phase 1, test 2.
+###### Fig. 5b): Phase 1, test 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 2.](Images/RF_phase1_test2.svg)
-###### Fig. 5c): Phase 1, test 3.
+###### Fig. 5c): Phase 1, test 3. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 3.](Images/RF_phase1_test3.svg)
-###### Fig. 5d): Phase 1, test 4.
+###### Fig. 5d): Phase 1, test 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 4.](Images/RF_phase1_test4.svg)
-###### Fig. 5e): Phase 2, test 1.
+###### Fig. 5e): Phase 2, test 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 1.](Images/RF_phase2_test1.svg)
-###### Fig. 5f): Phase 2, test 2.
+###### Fig. 5f): Phase 2, test 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 2.](Images/RF_phase2_test2.svg)
-###### Fig. 5g): Phase 2, test 3.
+###### Fig. 5g): Phase 2, test 3. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 3.](Images/RF_phase2_test3.svg)
-###### Fig. 5h): Phase 2, test 4.
+###### Fig. 5h): Phase 2, test 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 4.](Images/RF_phase2_test4.svg)
 
-##### Fig. 6: SVM – confusion matrices for experiments examining the effect of class balance on classification efficiency.
-###### Fig. 6a): Phase 1, test 1.
+##### Fig. 6: SVM – confusion matrices for experiments examining the effect of class balance on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 6a): Phase 1, test 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 1.](Images/SVM_phase1_test1.svg)
-###### Fig. 6b): Phase 1, test 2.
+###### Fig. 6b): Phase 1, test 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 2.](Images/SVM_phase1_test2.svg)
-###### Fig. 6c): Phase 1, test 3.
+###### Fig. 6c): Phase 1, test 3. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 3.](Images/SVM_phase1_test3.svg)
-###### Fig. 6d): Phase 1, test 4.
+###### Fig. 6d): Phase 1, test 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 4.](Images/SVM_phase1_test4.svg)
-###### Fig. 6e): Phase 2, test 1.
+###### Fig. 6e): Phase 2, test 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 1.](Images/SVM_phase2_test1.svg)
-###### Fig. 6f): Phase 2, test 2.
+###### Fig. 6f): Phase 2, test 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 2.](Images/SVM_phase2_test2.svg)
-###### Fig. 6g): Phase 2, test 3.
+###### Fig. 6g): Phase 2, test 3. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 3.](Images/SVM_phase2_test3.svg)
-###### Fig. 6h): Phase 2, test 4.
+###### Fig. 6h): Phase 2, test 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 4.](Images/SVM_phase2_test4.svg)
 
-##### Fig. 7: LogR – confusion matrices for experiments examining the effect of class balance on classification efficiency.
-###### Fig. 7a): Phase 1, test 1.
+##### Fig. 7: LogR – confusion matrices for experiments examining the effect of class balance on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 7a): Phase 1, test 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 1.](Images/LR_phase1_test1.svg)
-###### Fig. 7b): Phase 1, test 2.
+###### Fig. 7b): Phase 1, test 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 2.](Images/LR_phase1_test2.svg)
-###### Fig. 7c): Phase 1, test 3.
+###### Fig. 7c): Phase 1, test 3. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 3.](Images/LR_phase1_test3.svg)
-###### Fig. 7d): Phase 1, test 4.
+###### Fig. 7d): Phase 1, test 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 4.](Images/LR_phase1_test4.svg)
-###### Fig. 7e): Phase 2, test 1.
+###### Fig. 7e): Phase 2, test 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 1.](Images/LR_phase2_test1.svg)
-###### Fig. 7f): Phase 2, test 2.
+###### Fig. 7f): Phase 2, test 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 2.](Images/LR_phase2_test2.svg)
-###### Fig. 7g): Phase 2, test 3.
+###### Fig. 7g): Phase 2, test 3. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 3.](Images/LR_phase2_test3.svg)
-###### Fig. 7h): Phase 2, test 4.
+###### Fig. 7h): Phase 2, test 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 4.](Images/LR_phase2_test4.svg)
 
-##### Fig. 8: GBC – confusion matrices for experiments examining the effect of class balance on classification efficiency.
-###### Fig. 8a): Phase 1, test 1.
+##### Fig. 8: GBC – confusion matrices for experiments examining the effect of class balance on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 8a): Phase 1, test 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 1.](Images/GBC_phase1_test1.svg)
-###### Fig. 8b): Phase 1, test 2.
+###### Fig. 8b): Phase 1, test 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 2.](Images/GBC_phase1_test2.svg)
-###### Fig. 8c): Phase 1, test 3.
+###### Fig. 8c): Phase 1, test 3. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 3.](Images/GBC_phase1_test3.svg)
-###### Fig. 8d): Phase 1, test 4.
+###### Fig. 8d): Phase 1, test 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 4.](Images/GBC_phase1_test4.svg)
-###### Fig. 8e): Phase 2, test 1.
+###### Fig. 8e): Phase 2, test 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 1.](Images/GBC_phase2_test1.svg)
-###### Fig. 8f): Phase 2, test 2.
+###### Fig. 8f): Phase 2, test 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 2.](Images/GBC_phase2_test2.svg)
-###### Fig. 8g): Phase 2, test 3.
+###### Fig. 8g): Phase 2, test 3. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 3.](Images/GBC_phase2_test3.svg)
-###### Fig. 8h): Phase 2, test 4.
+###### Fig. 8h): Phase 2, test 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 4.](Images/GBC_phase2_test4.svg)
 
-##### Fig. 9: ANN – confusion matrices for experiments examining the effect of class balance on classification efficiency.
-###### Fig. 9a): Phase 1, test 1.
+##### Fig. 9: ANN – confusion matrices for experiments examining the effect of class balance on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 9a): Phase 1, test 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 1.](Images/ANN_phase1_test1.svg)
-###### Fig. 9b): Phase 1, test 2.
+###### Fig. 9b): Phase 1, test 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 2.](Images/ANN_phase1_test2.svg)
-###### Fig. 9c): Phase 1, test 3.
+###### Fig. 9c): Phase 1, test 3. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 3.](Images/ANN_phase1_test3.svg)
-###### Fig. 9d): Phase 1, test 4.
+###### Fig. 9d): Phase 1, test 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1, test 4.](Images/ANN_phase1_test4.svg)
-###### Fig. 9e): Phase 2, test 1.
+###### Fig. 9e): Phase 2, test 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 1.](Images/ANN_phase2_test1.svg)
-###### Fig. 9f): Phase 2, test 2.
+###### Fig. 9f): Phase 2, test 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 2.](Images/ANN_phase2_test2.svg)
-###### Fig. 9g): Phase 2, test 3.
+###### Fig. 9g): Phase 2, test 3. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 3.](Images/ANN_phase2_test3.svg)
-###### Fig. 9h): Phase 2, test 4.
+###### Fig. 9h): Phase 2, test 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2, test 4.](Images/ANN_phase2_test4.svg)
 
-##### Fig. 10: Accuracy graph for experiments examining the effect of class balance on classification efficiency.
-###### Fig. 10a): Phase 1.
+##### Fig. 10: Accuracy graph for experiments examining the effect of class balance on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 10a): Phase 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1.](Images/Balance_constant-length_phase1_accuracy.png)
-###### Fig. 10b): Phase 2.
+###### Fig. 10b): Phase 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2.](Images/Balance_constant-length_phase2_accuracy.png)
 
-##### Fig. 11: Precision graph for experiments examining the effect of class balance on classification efficiency.
-###### Fig. 11a): Phase 1.
+##### Fig. 11: Precision graph for experiments examining the effect of class balance on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 11a): Phase 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1.](Images/Balance_constant-length_phase1_precision.png)
-###### Fig. 11b): Phase 2.
+###### Fig. 11b): Phase 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2.](Images/Balance_constant-length_phase2_precision.png)
 
-##### Fig. 12: Recall graph for experiments examining the effect of class balance on classification efficiency.
-###### Fig. 12a): Phase 1.
+##### Fig. 12: Recall graph for experiments examining the effect of class balance on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 12a): Phase 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1.](Images/Balance_constant-length_phase1_recall.png)
-###### Fig. 12b): Phase 2.
+###### Fig. 12b): Phase 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2.](Images/Balance_constant-length_phase2_recall.png)
 
-##### Fig. 13: F1score graph for experiments examining the effect of class balance on classification efficiency.
-###### Fig. 13a): Phase 1.
+##### Fig. 13: F1score graph for experiments examining the effect of class balance on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 13a): Phase 1. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 1.](Images/Balance_constant-length_phase1_f1score.png)
-###### Fig. 13b): Phase 2.
+###### Fig. 13b): Phase 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Phase 2.](Images/Balance_constant-length_phase2_f1score.png)
 
-##### Appendix - Table 3: Removing samples from training datasets to balance classes. Tests 1-7.
+##### Appendix - Table 3: Removing samples from training datasets to balance classes. Tests 1-7. \([back to ToC](./README.md/#table-of-contents)\)
 |                                | **Gaussian Naive Bayes** | **Decision Tree** | **Random Forest** | **Support Vector Machine** | **Logistic Regression** | **Gradient Boosting Classifier** | **Artifical Neural Network** |
 |:------------------------------:|:------------------------:|:-----------------:|:-----------------:|:--------------------------:|:-----------------------:|:--------------------------------:|:----------------------------:|
 | **accuracy - Test 1**          | 0.879038441              | 0.990523042       | 0.999681034       | 0.998791611                | 0.993528679             | 0.997718169                      | 0.998300895                  |
@@ -258,32 +258,32 @@
 | **testing time [s] - Test 7**  | 0.017290831              | 0.004143238       | 0.030399323       | 0.554812193                | 0.011002064             | 0.051285982                      | 0.305068731                  |
 
 
-##### Appendix - Fig A1: Removing samples from training datasets to balance classes. Test 1: 10\% of KDD'99.
+##### Appendix - Fig A1: Removing samples from training datasets to balance classes. Test 1: 10\% of KDD'99. \([back to ToC](./README.md/#table-of-contents)\)
 ![Removing samples from training datasets to balance classes. Test 1: 10\% of KDD'99.](Images/Variable-length_test1_balance.svg)
 
-##### Appendix - Fig A2: Removing samples from training datasets to balance classes. Tests 2-7.
-###### Fig. A2a): Test 2: reduction of all \textit{DoS} attack by a factor of 2.
+##### Appendix - Fig A2: Removing samples from training datasets to balance classes. Tests 2-7. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. A2a): Test 2: reduction of all \textit{DoS} attack by a factor of 2. \([back to ToC](./README.md/#table-of-contents)\)
 ![Test 2: reduction of all \textit{DoS} attack by a factor of 2.](Images/Variable-length_test2_balance.svg)
-###### Fig. A2b): Test 3: reduction of all \textit{DoS} attack by a factor of 4.
+###### Fig. A2b): Test 3: reduction of all \textit{DoS} attack by a factor of 4. \([back to ToC](./README.md/#table-of-contents)\)
 ![Test 3: reduction of all \textit{DoS} attack by a factor of 4.](Images/Variable-length_test3_balance.svg)
-###### Fig. A2c): Test 4: reduction of all \textit{DoS} attack by a factor of 8.
+###### Fig. A2c): Test 4: reduction of all \textit{DoS} attack by a factor of 8. \([back to ToC](./README.md/#table-of-contents)\)
 ![{Test 4: reduction of all \textit{DoS} attack by a factor of 8.](Images/Variable-length_test4_balance.svg)
-###### Fig. A2d): Test 5: reduction of all \textit{DoS} attack by a factor of 20 and \textit{normal} by a factor of 10.
+###### Fig. A2d): Test 5: reduction of all \textit{DoS} attack by a factor of 20 and \textit{normal} by a factor of 10. \([back to ToC](./README.md/#table-of-contents)\)
 ![Test 5: reduction of all \textit{DoS} attack by a factor of 20 and \textit{normal} by a factor of 10.](Images/Variable-length_test5_balance.svg)
-###### Fig. A2e): Test 6: reduction of all \textit{DoS} attack by a factor of 40 and \textit{normal} by a factor of 10.
+###### Fig. A2e): Test 6: reduction of all \textit{DoS} attack by a factor of 40 and \textit{normal} by a factor of 10. \([back to ToC](./README.md/#table-of-contents)\)
 ![Test 6: reduction of all \textit{DoS} attack by a factor of 40 and \textit{normal} by a factor of 10.](Images/Variable-length_test6_balance.svg)
-###### Fig. A2f): Test 7: reduction of all \textit{DoS} attack by a factor of 80 and \textit{normal} by a factor of 10.
+###### Fig. A2f): Test 7: reduction of all \textit{DoS} attack by a factor of 80 and \textit{normal} by a factor of 10. \([back to ToC](./README.md/#table-of-contents)\)
 ![Test 7: reduction of all \textit{DoS} attack by a factor of 80 and \textit{normal} by a factor of 10.](Images/Variable-length_test7_balance.svg)
 
-##### Fig. 14: Accuracy for datasets of various sizes.
+##### Fig. 14: Accuracy for datasets of various sizes. \([back to ToC](./README.md/#table-of-contents)\)
 ![Accuracy for datasets of various sizes](Images/Balance_variable-length_accuracy.png)
 
 ### Section 3.2 Features correlation
 
-##### Fig. 15: Standard correlation coefficient for KDD Cup'99 dataset features.
+##### Fig. 15: Standard correlation coefficient for KDD Cup'99 dataset features. \([back to ToC](./README.md/#table-of-contents)\)
 ![Standard correlation coefficient for KDD Cup'99 dataset features](Images/heatmap.png)
 
-##### Appendix - Table 4: Different thresholds of acceptable correlation coefficients. Tests 1-4.
+##### Appendix - Table 4: Different thresholds of acceptable correlation coefficients. Tests 1-4. \([back to ToC](./README.md/#table-of-contents)\)
 |                                | **Gaussian Naive Bayes** | **Decision Tree** | **Random Forest** | **Support Vector Machine** | **Logistic Regression** | **Gradient Boosting Classifier** | **Artifical Neural Network** |
 |:------------------------------:|:------------------------:|:-----------------:|:-----------------:|:--------------------------:|:-----------------------:|:--------------------------------:|:----------------------------:|
 | **accuracy - Test 1**          | 0.879038441              | 0.990523042       | 0.999681034       | 0.998791611                | 0.993528679             | 0.997718169                      | 0.998300895                  |
@@ -299,22 +299,22 @@
 | **testing time [s] - Test 3**  | 0.168973923              | 0.021884441       | 0.770443916       | 63.95166469                | 0.044288874             | 1.66951108                       | 4.988589048                  |
 | **testing time [s] - Test 4**  | 0.166803122              | 0.024616003       | 0.47866416        | 82.41538                   | 0.034491062             | 1.119737864                      | 5.231910229                  |
 
-##### Appendix - Fig A3: Different thresholds of acceptable correlation coefficients. Tests 1-4.
-###### Fig. A3a): Test 1: The Threshold of correlation coefficients set to 98\%.
+##### Appendix - Fig A3: Different thresholds of acceptable correlation coefficients. Tests 1-4. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. A3a): Test 1: The Threshold of correlation coefficients set to 98\%. \([back to ToC](./README.md/#table-of-contents)\)
 ![Test 1: The Threshold of correlation coefficients set to 98\%.](Images/Correlation_98.svg)
-###### Fig. A3b): Test 2: The Threshold of correlation coefficients set to 100\%.
+###### Fig. A3b): Test 2: The Threshold of correlation coefficients set to 100\%. \([back to ToC](./README.md/#table-of-contents)\)
 ![Test 2: The Threshold of correlation coefficients set to 100\%.](Images/Correlation_100.svg)
-###### Fig. A3c): Test 3: The Threshold of correlation coefficients set to 90\%.
+###### Fig. A3c): Test 3: The Threshold of correlation coefficients set to 90\%. \([back to ToC](./README.md/#table-of-contents)\)
 ![Test 3: The Threshold of correlation coefficients set to 90\%.](Images/Correlation_90.svg)
-###### Fig. A3d): Test 4: The Threshold of correlation coefficients set to 80\%.
+###### Fig. A3d): Test 4: The Threshold of correlation coefficients set to 80\%. \([back to ToC](./README.md/#table-of-contents)\)
 ![Test 4: The Threshold of correlation coefficients set to 80\%.](Images/Correlation_80.svg)
 
-##### Fig. 16: Accuracy for the different thresholds of the acceptable correlation coefficients.
+##### Fig. 16: Accuracy for the different thresholds of the acceptable correlation coefficients. \([back to ToC](./README.md/#table-of-contents)\)
 ![Accuracy for the different thresholds of the acceptable correlation coefficients](Images/correlationAccuracy.png)
 
 ### Section 3.3 Data leakage
 
-##### Appendix - Table 5: Comparison of the classifier’s effectiveness due to used training/testing dataset. Tests: 1-4.
+##### Appendix - Table 5: Comparison of the classifier’s effectiveness due to used training/testing dataset. Tests: 1-4. \([back to ToC](./README.md/#table-of-contents)\)
 |                                | **Gaussian Naive Bayes** | **Decision Tree** | **Random Forest** | **Support Vector Machine** | **Logistic Regression** | **Gradient Boosting Classifier** | **Artifical Neural Network** |
 |:------------------------------:|:------------------------:|:-----------------:|:-----------------:|:--------------------------:|:-----------------------:|:--------------------------------:|:----------------------------:|
 | **accuracy - Test 1**          | 0.515274262              | 0.541772152       | 0.54092827        | 0.499746835                | 0.535696203             | 0.506582278                      | 0.500253165                  |
@@ -342,102 +342,102 @@
 | **testing time [s] - Test 3**  | 0.028802872              | 0.003587008       | 0.05890059        | 55.876841307               | 0.015980721             | 0.086857319                      | 0.470012188                  |
 | **testing time [s] - Test 4**  | 0.263990402              | 0.033575535       | 0.51627445        | 264.01787257               | 0.044744968             | 1.937648535                      | 10.44452691                  |
 
-##### Fig. 17: Distribution of data representing the various types of attacks for experiments examining the effect of features correlation on classification efficiency.
-###### Fig. 17a): NSL-KDD train dataset.
+##### Fig. 17: Distribution of data representing the various types of attacks for experiments examining the effect of features correlation on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 17a): NSL-KDD train dataset. \([back to ToC](./README.md/#table-of-contents)\)
 ![NSL-KDD train dataset.](Images/NSL-KDD_Train.png)
-###### Fig. 17b): NSL-KDD test dataset.
+###### Fig. 17b): NSL-KDD test dataset. \([back to ToC](./README.md/#table-of-contents)\)
 ![NSL-KDD test dataset.](Images/NSL-KDD_Test.png)
-###### Fig. 17c): KDD Cup'99 train/test dataset.
+###### Fig. 17c): KDD Cup'99 train/test dataset. \([back to ToC](./README.md/#table-of-contents)\)
 ![KDD Cup'99 train/test dataset.](Images/KDD_TrainTest.png)
 
-##### Fig. 18: Accuracy graph for experiments examining the effect of features correlation on classification efficiency.
+##### Fig. 18: Accuracy graph for experiments examining the effect of features correlation on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
 ![Accuracy graph for experiments examining the effect of features correlation on classification efficiency.](Images/comparisonAccuracy.png)
 
-##### Fig. 19: Precision graph for experiments examining the effect of features correlation on classification efficiency.
+##### Fig. 19: Precision graph for experiments examining the effect of features correlation on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
 ![Precision graph for experiments examining the effect of features correlation on classification efficiency.](Images/comparisonPrecision.png)
 
-##### Fig. 20: Recall graph for experiments examining the effect of features correlation on classification efficiency.
+##### Fig. 20: Recall graph for experiments examining the effect of features correlation on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
 ![Recall graph for experiments examining the effect of features correlation on classification efficiency.](Images/comparisonRecall.png)
 
-##### Fig. 21: F1score graph for experiments examining the effect of features correlation on classification efficiency.
+##### Fig. 21: F1score graph for experiments examining the effect of features correlation on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
 ![F1score graph for experiments examining the effect of features correlation on classification efficiency.](Images/comparisonF1Score.png)
 
-##### Fig. 22: GNB – confusion matrices for experiments examining the effect of features correlation on classification efficiency.
-###### Fig. 22a): Train: NSL, test: NSL.
+##### Fig. 22: GNB – confusion matrices for experiments examining the effect of features correlation on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 22a): Train: NSL, test: NSL. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: NSL, test: NSL.](Images//NSL-NSL_GNB.svg)
-###### Fig. 22b): Train: NSL, test: KDD.
+###### Fig. 22b): Train: NSL, test: KDD. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: NSL, test: KDD.](Images/NSL-KDD_GNB.svg)
-###### Fig. 22c): Train: KDD, test: NSL.
+###### Fig. 22c): Train: KDD, test: NSL. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: KDD, test: NSL.](Images/KDD-NSL_GNB.svg)
-###### Fig. 22d): Train: KDD, test: KDD.
+###### Fig. 22d): Train: KDD, test: KDD. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: KDD, test: KDD.](Images/KDD-KDD_GNB.svg)
 
-##### Fig. 23: DT – confusion matrices for experiments examining the effect of features correlation on classification efficiency.
-###### Fig. 23a): Train: NSL, test: NSL.
+##### Fig. 23: DT – confusion matrices for experiments examining the effect of features correlation on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 23a): Train: NSL, test: NSL. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: NSL, test: NSL.](Images/NSL-NSL_DT.svg)
-###### Fig. 23b): Train: NSL, test: KDD.
+###### Fig. 23b): Train: NSL, test: KDD. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: NSL, test: KDD.](Images/NSL-KDD_DT.svg)
-###### Fig. 23c): Train: KDD, test: NSL.
+###### Fig. 23c): Train: KDD, test: NSL. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: KDD, test: NSL.](Images/KDD-NSL_DT.svg)
-###### Fig. 23d): Train: KDD, test: KDD.
+###### Fig. 23d): Train: KDD, test: KDD. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: KDD, test: KDD.](Images/KDD-KDD_DT.svg)
 
-##### Fig. 24: RF – confusion matrices for experiments examining the effect of features correlation on classification efficiency.
-###### Fig. 24a): Train: NSL, test: NSL.
+##### Fig. 24: RF – confusion matrices for experiments examining the effect of features correlation on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 24a): Train: NSL, test: NSL. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: NSL, test: NSL.](Images/NSL-NSL_RF.svg)
-###### Fig. 24b): Train: NSL, test: KDD.
+###### Fig. 24b): Train: NSL, test: KDD. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: NSL, test: KDD.](Images/NSL-KDD_RF.svg)
-###### Fig. 24c): Train: KDD, test: NSL.
+###### Fig. 24c): Train: KDD, test: NSL. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: KDD, test: NSL.](Images/KDD-NSL_RF.svg)
-###### Fig. 24d): Train: KDD, test: KDD.
+###### Fig. 24d): Train: KDD, test: KDD. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: KDD, test: KDD.](Images/KDD-KDD_RF.svg)
 
-##### Fig. 25: SVM – confusion matrices for experiments examining the effect of features correlation on classification efficiency.
-###### Fig. 25a): Train: NSL, test: NSL.
+##### Fig. 25: SVM – confusion matrices for experiments examining the effect of features correlation on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 25a): Train: NSL, test: NSL. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: NSL, test: NSL.](Images/NSL-NSL_SVM.svg)
-###### Fig. 25b): Train: NSL, test: KDD.
+###### Fig. 25b): Train: NSL, test: KDD. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: NSL, test: KDD.](Images/NSL-KDD_SVM.svg)
-###### Fig. 25c): Train: KDD, test: NSL.
+###### Fig. 25c): Train: KDD, test: NSL. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: KDD, test: NSL.](Images/KDD-NSL_SVM.svg)
-###### Fig. 25d): Train: KDD, test: KDD.
+###### Fig. 25d): Train: KDD, test: KDD. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: KDD, test: KDD.](Images/KDD-KDD_SVM.svg)
 
-##### Fig. 26: LogR – confusion matrices for experiments examining the effect of features correlation on classification efficiency.
-###### Fig. 26a): Train: NSL, test: NSL.
+##### Fig. 26: LogR – confusion matrices for experiments examining the effect of features correlation on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 26a): Train: NSL, test: NSL. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: NSL, test: NSL.](Images/NSL-NSL_LR.svg)
-###### Fig. 26b): Train: NSL, test: KDD.
+###### Fig. 26b): Train: NSL, test: KDD. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: NSL, test: KDD.](Images/NSL-KDD_LR.svg)
-###### Fig. 26c): Train: KDD, test: NSL.
+###### Fig. 26c): Train: KDD, test: NSL. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: KDD, test: NSL.](Images/KDD-NSL_LR.svg)
-###### Fig. 26d): Train: KDD, test: KDD.
+###### Fig. 26d): Train: KDD, test: KDD. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: KDD, test: KDD.](Images/KDD-KDD_LR.svg)
 
-##### Fig. 27: GBC – confusion matrices for experiments examining the effect of features correlation on classification efficiency.
-###### Fig. 27a): Train: NSL, test: NSL.
+##### Fig. 27: GBC – confusion matrices for experiments examining the effect of features correlation on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 27a): Train: NSL, test: NSL. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: NSL, test: NSL.](Images/NSL-NSL_GBC.svg)
-###### Fig. 27b): Train: NSL, test: KDD.
+###### Fig. 27b): Train: NSL, test: KDD. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: NSL, test: KDD.](Images/NSL-KDD_GBC.svg)
-###### Fig. 27c): Train: KDD, test: NSL.
+###### Fig. 27c): Train: KDD, test: NSL. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: KDD, test: NSL.](Images/KDD-NSL_GBC.svg)
-###### Fig. 27d): Train: KDD, test: KDD.
+###### Fig. 27d): Train: KDD, test: KDD. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: KDD, test: KDD.](Images/KDD-KDD_GBC.svg)
 
-##### Fig. 28: ANN – confusion matrices for experiments examining the effect of features correlation on classification efficiency.
-###### Fig. 28a): Train: NSL, test: NSL.
+##### Fig. 28: ANN – confusion matrices for experiments examining the effect of features correlation on classification efficiency. \([back to ToC](./README.md/#table-of-contents)\)
+###### Fig. 28a): Train: NSL, test: NSL. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: NSL, test: NSL.](Images/NSL-NSL_ANN.svg)
-###### Fig. 28b): Train: NSL, test: KDD.
+###### Fig. 28b): Train: NSL, test: KDD. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: NSL, test: KDD.](Images/NSL-KDD_ANN.svg)
-###### Fig. 28c): Train: KDD, test: NSL.
+###### Fig. 28c): Train: KDD, test: NSL. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: KDD, test: NSL.](Images/KDD-NSL_ANN.svg)
-###### Fig. 28d): Train: KDD, test: KDD.
+###### Fig. 28d): Train: KDD, test: KDD. \([back to ToC](./README.md/#table-of-contents)\)
 ![Train: KDD, test: KDD.](Images/KDD-KDD_ANN.svg)
 
 #### Section 3.4.4 Model theft
 
-##### Fig. 29: An example of a model theft attack from the publication: Goodfellow et al. in [1412.6572](https://arxiv.org/abs/1412.6572).
+##### Fig. 29: An example of a model theft attack from the publication: Goodfellow et al. in [1412.6572](https://arxiv.org/abs/1412.6572). \([back to ToC](./README.md/#table-of-contents)\)
 ![An example of a model theft attack from the publication: Goodfellow et al.](Images/Goodfellow2014.png)
 
 #### Section 3.4.5 Recovery of training data
 
-##### Fig. 30: An example of an model inversion attack by: Jin et al. in [2110.15122](https://arxiv.org/abs/2110.15122).
+##### Fig. 30: An example of an model inversion attack by: Jin et al. in [2110.15122](https://arxiv.org/abs/2110.15122). \([back to ToC](./README.md/#table-of-contents)\)
 ![An example of an model inversion attack by: Jin et al.](Images/CAFE.png)
