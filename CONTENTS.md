@@ -5,7 +5,7 @@
 
 ### Section 3.1 Balancing the classes in the training dataset
 
-##### Fig. 2: Balancing the data representing specific categories in subsequent experiments examining the effect of class proportion on classification efficiency. \([back to ToC](README.MD/#table-of-contents)\)
+##### Fig. 2: Balancing the data representing specific categories in subsequent experiments examining the effect of class proportion on classification efficiency. \([back to ToC](#table-of-contents)\)
 ###### Fig. 2a): Phase 1, test 1.
 ![Phase 1, test 1.](Images/balance_phase1_test1.png)
 ###### Fig. 2b): Phase 1, test 2.
