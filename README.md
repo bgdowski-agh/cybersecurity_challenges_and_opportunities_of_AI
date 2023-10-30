@@ -2,8 +2,8 @@
 Figures and results of tests covered in "Cybersecurity Challenges and Opportunities of Artificial Intelligence" article
 
 ## Table of contents:
-+ [Fig. 1: The division of AI into subcategories.](#fig-1-the-division-of-ai-into-subcategories)
-+ [Fig. 2: Balancing the data representing specific categories in subsequent experiments examining the effect of class proportion on classification efficiency.](#fig-2-balancing-the-data-representing-specific-categories-in-subsequent-experiments-examining-the-effect-of-class-proportion-on-classification-efficiency)
++ [Fig. 1: The division of AI into subcategories.](./CONTENTS.md#fig-1-the-division-of-ai-into-subcategories)
++ [Fig. 2: Balancing the data representing specific categories in subsequent experiments examining the effect of class proportion on classification efficiency.](./CONTENTS.md#fig-2-balancing-the-data-representing-specific-categories-in-subsequent-experiments-examining-the-effect-of-class-proportion-on-classification-efficiency)
   - [Fig. 2a): Phase 1, test 1.](#fig-2a-phase-1-test-1)
   - [Fig. 2b): Phase 1, test 2.](#fig-2b-phase-1-test-2)
   - [Fig. 2c): Phase 1, test 3.](#fig-2c-phase-1-test-3)
