@@ -1,6 +1,9 @@
 # cybersecurity_challenges_and_opportunities_of_AI
 Figures and results of tests covered in "Cybersecurity Challenges and Opportunities of Artificial Intelligence" article
 
+## Table of contents:
+- [Fig. 1](README.md/#fig.-1:-the-division-of-ai-into-subcategories)
+
 ### Section 2.1 Types of AI based on system's capability
 
 ##### Fig. 1: The division of AI into subcategories.
