@@ -1,5 +1,5 @@
 # cybersecurity_challenges_and_opportunities_of_AI
-Figures and results of tests covered in "Cybersecurity Challenges and Opportunities of Artificial Intelligence" article
+Figures and results of tests done for purposes of "Cybersecurity Challenges and Opportunities of Artificial Intelligence" article
 
 ## Table of contents:
 + [Fig. 1: The division of AI into subcategories.](./CONTENTS.md#fig-1-the-division-of-ai-into-subcategories)
