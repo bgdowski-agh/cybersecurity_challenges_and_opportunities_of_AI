@@ -1,6 +1,6 @@
 ### Section 2.1 Types of AI based on system's capability
 
-##### Fig. 1: The division of AI into subcategories. \([back to ToC](./README.md/#table-of-contents)\)
+##### Appendix - Fig. 0: The division of AI into subcategories. \([back to ToC](./README.md/#table-of-contents)\)
 ![The division of AI into subcategories](Images/AI_figure01.drawio.svg)
 
 ### Section 3.1 Balancing the classes in the training dataset
